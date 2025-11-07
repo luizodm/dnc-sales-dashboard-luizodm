@@ -8,6 +8,7 @@ declare module 'styled-components' {
     appDefaultStroke: AppTheme['appDefaultStroke']
     appLogo: AppTheme['appLogo']
     buttons: AppTheme['buttons']
+    card: AppTheme['card']
     textInput: AppTheme['input']
     typographies: AppTheme['typographies']
     // adicionar outras chaves quando necessário
